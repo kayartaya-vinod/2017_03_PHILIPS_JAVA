@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MySQL"/>
+	<classpathentry kind="lib" path="/Users/vinodkumar/Desktop/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="/Users/vinodkumar/Desktop/sqljdbc_6.0/enu/jre8/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="jars/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="jars/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="jars/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="jars/hibernate3.jar"/>
+	<classpathentry kind="lib" path="jars/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="jars/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="jars/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
